@@ -1,0 +1,16 @@
+C:\temp\Automated-FO-Parts\AutomatedFOClient\AutomatedFOClient\bin\Debug\netcoreapp3.1\AutomatedFOClient.exe
+C:\temp\Automated-FO-Parts\AutomatedFOClient\AutomatedFOClient\bin\Debug\netcoreapp3.1\AutomatedFOClient.deps.json
+C:\temp\Automated-FO-Parts\AutomatedFOClient\AutomatedFOClient\bin\Debug\netcoreapp3.1\AutomatedFOClient.runtimeconfig.json
+C:\temp\Automated-FO-Parts\AutomatedFOClient\AutomatedFOClient\bin\Debug\netcoreapp3.1\AutomatedFOClient.runtimeconfig.dev.json
+C:\temp\Automated-FO-Parts\AutomatedFOClient\AutomatedFOClient\bin\Debug\netcoreapp3.1\AutomatedFOClient.dll
+C:\temp\Automated-FO-Parts\AutomatedFOClient\AutomatedFOClient\bin\Debug\netcoreapp3.1\AutomatedFOClient.pdb
+C:\temp\Automated-FO-Parts\AutomatedFOClient\AutomatedFOClient\obj\Debug\netcoreapp3.1\AutomatedFOClient.csproj.AssemblyReference.cache
+C:\temp\Automated-FO-Parts\AutomatedFOClient\AutomatedFOClient\obj\Debug\netcoreapp3.1\AutomatedFOClient.Form1.resources
+C:\temp\Automated-FO-Parts\AutomatedFOClient\AutomatedFOClient\obj\Debug\netcoreapp3.1\AutomatedFOClient.csproj.GenerateResource.cache
+C:\temp\Automated-FO-Parts\AutomatedFOClient\AutomatedFOClient\obj\Debug\netcoreapp3.1\AutomatedFOClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\Automated-FO-Parts\AutomatedFOClient\AutomatedFOClient\obj\Debug\netcoreapp3.1\AutomatedFOClient.AssemblyInfoInputs.cache
+C:\temp\Automated-FO-Parts\AutomatedFOClient\AutomatedFOClient\obj\Debug\netcoreapp3.1\AutomatedFOClient.AssemblyInfo.cs
+C:\temp\Automated-FO-Parts\AutomatedFOClient\AutomatedFOClient\obj\Debug\netcoreapp3.1\AutomatedFOClient.csproj.CoreCompileInputs.cache
+C:\temp\Automated-FO-Parts\AutomatedFOClient\AutomatedFOClient\obj\Debug\netcoreapp3.1\AutomatedFOClient.dll
+C:\temp\Automated-FO-Parts\AutomatedFOClient\AutomatedFOClient\obj\Debug\netcoreapp3.1\AutomatedFOClient.pdb
+C:\temp\Automated-FO-Parts\AutomatedFOClient\AutomatedFOClient\obj\Debug\netcoreapp3.1\AutomatedFOClient.genruntimeconfig.cache
